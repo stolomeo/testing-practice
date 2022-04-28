@@ -34,4 +34,3 @@ $ npm run test
 - [Using Matchers in Jest](https://jestjs.io/docs/using-matchers)
 - [Setup and Teardown in Jest](https://jestjs.io/docs/setup-teardown)
 - [Mock Functions included in Jest](https://jestjs.io/docs/mock-functions)
-- [Using Jest with Webpack](https://jestjs.io/docs/webpack)
